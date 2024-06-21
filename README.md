@@ -110,29 +110,29 @@ To run tests, run the following command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 ** Obi Anthony **
+👤 **Obi Anthony**
 
 - GitHub: [@megagig](https://github.com/megagig)
 - Twitter: [@megagigsolution](https://twitter.com/megagigsolution)
 - LinkedIn: [Anthony Obi](https://www.linkedin.com/in/obi-anthony-440a1430/)
 
-👤 ** Omoniyi Opemipo **
+👤 **Omoniyi Opemipo**
 
-👤 ** Peter Jonathan-Hart **
+👤 **Peter Jonathan-Hart**
 
-👤 ** Kevin Mwangi **
+👤 **Kevin Mwangi**
 
-👤 ** Jeffery Deme **
+👤 **Jeffery Deme**
 
-👤 ** Ayodeji Ogundeji **
+👤 **Ayodeji Ogundeji**
 
-👤 ** Nathan Kaduru **
+👤 **Nathan Kaduru**
 
-👤 ** Divine Dozo **
+👤 **Divine Dozo**
 
-👤 ** Zainah Saheed **
+👤 **Zainah Saheed**
 
-👤 ** Badrudeen Adewumi Abdul-hameed **
+👤 **Badrudeen Adewumi Abdul-hameed**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
