@@ -6,25 +6,25 @@ const Faq = () => {
       id: 1,
       question: 'Why should I Buy From ShopMaster?',
       answer:
-        'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellendus earum dicta nesciunt, nulla alias consequuntur cumque incidunt saepe mollitia esse! Magni praesentium delectus excepturi nostrum illo repellendus cum eius neque, aperiam dolores quaerat quis dolore magnam doloremque minus sint nemo qui necessitatibus at. Perspiciatis, corrupti cum labore quos odio porro!',
+        'At ShopMaster, we offer a wide range of high-quality products at competitive prices. Our commitment to excellent customer service, fast shipping, and secure payment options ensures a seamless shopping experience. Plus, we have a hassle-free return policy for your peace of mind.',
     },
     {
       id: 2,
-      question: 'Can I access my Products Immediately i place order?',
+      question: 'How do I place an order?',
       answer:
-        'Lorem ipsum dolor sit amet consectetur adipisicing elit. At accusamus nobis tempore perferendis qui, quam, atque reprehenderit vero quaerat, assumenda pariatur eveniet. Maxime eaque, neque corrupti ad minus repudiandae consectetur!',
+        'To place an order, simply browse our products, add your desired items to the cart, and proceed to checkout. Follow the on-screen instructions to complete your purchase.',
     },
     {
       id: 3,
       question: 'Do you offer refunds?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iste dolor deserunt expedita quam fugit et inventore amet pariatur. Animi.',
+        'We accept returns within 30 days of purchase. Items must be unused and in their original packaging. Contact our support team to initiate a return.To return an item, contact our customer service team to receive a return authorization. Follow the provided instructions to send back your item.',
     },
     {
       id: 4,
-      question: 'Do you support Internation payments?',
+      question: 'What payment methods do you accept?',
       answer:
-        'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse iste dolor deserunt expedita quam fugit et inventore amet pariatur. Animi.',
+        'We accept major credit cards, PayPal, and other secure payment options. You can choose your preferred method at checkout. You can change or cancel your order within 24 hours of placing it by contacting our customer service team. After this period, changes may not be possible.',
     },
   ];
 
