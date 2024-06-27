@@ -9,16 +9,27 @@
 .user-details{
   border:1px solid yellow;
 }
-.user-orders{
+section{
   border:1px solid blue;
 }
-.user-section{
+/* .user-section{
   border:1px solid blue;
 }
+.user-wishlist{
+  border:1px solid blue;
+} */
 .first-name,
 .second-name,
 .phone-number,
 .email,
 .address{
   border:1px solid black;
+}
+.names,
+.contacts
+{
+  border: 1px solid brown;
+}
+.div-in{
+  border: 1px solid pink;
 }

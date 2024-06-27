@@ -1,4 +1,4 @@
-const  UserOrders = (product) => {
+const  Orders = (product) => {
   return(
     <div className="user-orders">
       <div className="user-order-card">
@@ -12,4 +12,4 @@ const  UserOrders = (product) => {
     </div>
   )
 };
-export default UserOrders;
+export default Orders;
