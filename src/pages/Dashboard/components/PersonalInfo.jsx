@@ -3,7 +3,7 @@ const  PersonalInfo = (user) => {
   return(
     <div className="personal-info ">
       <div className="image-button flex">
-        <img src="" alt="user Image" />
+        {/* <img src="https://fastly.picsum.photos/id/64/4326/2884.jpg?hmac=9_SzX666YRpR_fOyYStXpfSiJ_edO3ghlSRnH2w09Kg" alt="user Image" /> */}
         <button>Edit Profile</button>
       </div>
       <div className="user-info">

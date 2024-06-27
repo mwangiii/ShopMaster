@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import './DashboardPage.css';
 import { faSliders } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import Orders from "./components/Orders";
