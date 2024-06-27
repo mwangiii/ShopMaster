@@ -13,6 +13,7 @@ const  PersonalInfo = (user) => {
           <h6>Last name</h6>
           <div className="second-name w-2/5 h-16 rounded-b-md rounded-r-md">{user.second}</div>
         </div>
+        
         <div className="contacts flex w-80% items-center p-10">
           <h6>Phone number</h6>
           <div className="phone-number w-2/5 ml-20 mr-20 h-16 rounded-b-md rounded-r-md">{user.phoneNumber}</div>
