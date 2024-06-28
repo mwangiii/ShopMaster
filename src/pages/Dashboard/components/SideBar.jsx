@@ -14,27 +14,27 @@ const SideBar = ({ setSelectedSection }) => {
          </div>
         </div>
         </div>
-  
+        
         <div className="user-controls border-gray-500 border-solid border">
-          <div className="personal-info flex p-6 justify-items-start items-start" onClick={() => setSelectedSection('PersonalInfo')}>
+          <div className="personal-info flex p-6 justify-items-start items-start cursor-pointer" onClick={() => setSelectedSection('PersonalInfo')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faUser} /></div><span>personal information</span>
           </div>
-          <div className="my-orders flex border-gray-500 border-solid border p-6 justify-items-start items-start " onClick={() => setSelectedSection('Orders')}>
+          <div className="my-orders flex border-gray-500 border-solid border p-6 justify-items-start items-start cursor-pointer " onClick={() => setSelectedSection('Orders')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faBox} /></div><span>My orders</span>
           </div>
-          <div className="my-wishlists flex border-gray-500 border-solid border p-6 justify-items-start items-start " onClick={() => setSelectedSection('Wishlist')}>
+          <div className="my-wishlists flex border-gray-500 border-solid border p-6 justify-items-start items-start cursor-pointer " onClick={() => setSelectedSection('Wishlist')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faHeart} /></div><span>My Wishlists</span>
           </div>
-          <div className="manage addresses flex border-gray-500 border-solid border p-6 justify-items-start items-start " onClick={() => setSelectedSection('Addresses')}>
+          <div className="manage addresses flex border-gray-500 border-solid border p-6 justify-items-start items-start cursor-pointer " onClick={() => setSelectedSection('Addresses')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faLocationDot} /></div><span>My Address</span>
           </div>
-          <div className="saved-cards flex p-6 justify-items-start items-start" onClick={() => setSelectedSection('SavedCards')}>
+          <div className="saved-cards flex p-6 justify-items-start items-start cursor-pointer" onClick={() => setSelectedSection('SavedCards')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faCreditCard} /></div><span>Saved Cards</span>
           </div>
-          <div className="Notifications flex border-gray-500 border-solid border p-6 justify-items-start items-start" onClick={() => setSelectedSection('Notifications')}>
+          <div className="Notifications flex border-gray-500 border-solid border p-6 justify-items-start items-start cursor-pointer" onClick={() => setSelectedSection('Notifications')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faBell} /></div><span>Notifications</span>
           </div>
-          <div className="settings flex border-gray-500 border-solid border p-6 justify-items-start items-start" onClick={() => setSelectedSection('Settings')}>
+          <div className="settings flex border-gray-500 border-solid border p-6 justify-items-start items-start cursor-pointer" onClick={() => setSelectedSection('Settings')}>
             <div className="user-icons mr-4"><FontAwesomeIcon icon={faGear} /></div><span>Settings</span>
           </div>
       </div>
